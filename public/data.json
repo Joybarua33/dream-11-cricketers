@@ -1,0 +1,103 @@
+[
+    {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 98,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Medium",
+    "price": 2000000,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "batStyle": "Left-Handed",
+    "bowlingStyle": "Left-Arm Orthodox",
+    "price": 1500000,
+    "playerImg": "https://placehold.co/400x400?text=Shakib+Al+Hasan"
+  },
+ 
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 94,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": 1800000,
+    "playerImg": "https://placehold.co/400x400?text=Babar+Azam"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 97,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1900000,
+    "playerImg": "https://placehold.co/400x400?text=Jasprit+Bumrah"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 93,
+    "batStyle": "Left-Handed",
+    "bowlingStyle": "Right-Arm Fast-Medium",
+    "price": 1700000,
+    "playerImg": "https://placehold.co/400x400?text=Ben+Stokes"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 92,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": 1400000,
+    "playerImg": "https://placehold.co/400x400?text=Kane+Williamson"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 96,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Leg-Spin",
+    "price": 1600000,
+    "playerImg": "https://placehold.co/400x400?text=Rashid+Khan"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicket-Keeper",
+    "rating": 94,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Does Not Bowl Regularly",
+    "price": 1550000,
+    "playerImg": "https://placehold.co/400x400?text=Jos+Buttler"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 91,
+    "batStyle": "Left-Handed",
+    "bowlingStyle": "Left-Arm Fast-Medium",
+    "price": 1300000,
+    "playerImg": "https://placehold.co/400x400?text=Trent+Boult"
+  },
+  {
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicket-Keeper",
+    "rating": 89,
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Does Not Bowl Regularly",
+    "price": 900000,
+    "playerImg": "https://placehold.co/400x400?text=Litton+Das"
+  }
+]
