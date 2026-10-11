@@ -6,7 +6,7 @@
     "rating": 98,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Right-Arm Medium",
-    "price": 2000000,
+    "price": 2000,
     "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
@@ -16,8 +16,8 @@
     "rating": 95,
     "batStyle": "Left-Handed",
     "bowlingStyle": "Left-Arm Orthodox",
-    "price": 1500000,
-    "playerImg": "https://placehold.co/400x400?text=Shakib+Al+Hasan"
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
  
   {
@@ -27,8 +27,8 @@
     "rating": 94,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": 1800000,
-    "playerImg": "https://placehold.co/400x400?text=Babar+Azam"
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -37,8 +37,8 @@
     "rating": 97,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Right-Arm Fast",
-    "price": 1900000,
-    "playerImg": "https://placehold.co/400x400?text=Jasprit+Bumrah"
+    "price": 2000,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Ben Stokes",
@@ -47,8 +47,8 @@
     "rating": 93,
     "batStyle": "Left-Handed",
     "bowlingStyle": "Right-Arm Fast-Medium",
-    "price": 1700000,
-    "playerImg": "https://placehold.co/400x400?text=Ben+Stokes"
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Kane Williamson",
@@ -57,8 +57,8 @@
     "rating": 92,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": 1400000,
-    "playerImg": "https://placehold.co/400x400?text=Kane+Williamson"
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Rashid Khan",
@@ -67,8 +67,8 @@
     "rating": 96,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Right-Arm Leg-Spin",
-    "price": 1600000,
-    "playerImg": "https://placehold.co/400x400?text=Rashid+Khan"
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Jos Buttler",
@@ -77,8 +77,8 @@
     "rating": 94,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Does Not Bowl Regularly",
-    "price": 1550000,
-    "playerImg": "https://placehold.co/400x400?text=Jos+Buttler"
+    "price": 1000,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Trent Boult",
@@ -87,8 +87,8 @@
     "rating": 91,
     "batStyle": "Left-Handed",
     "bowlingStyle": "Left-Arm Fast-Medium",
-    "price": 1300000,
-    "playerImg": "https://placehold.co/400x400?text=Trent+Boult"
+    "price": 1000,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   },
   {
     "playerName": "Litton Das",
@@ -97,7 +97,7 @@
     "rating": 89,
     "batStyle": "Right-Handed",
     "bowlingStyle": "Does Not Bowl Regularly",
-    "price": 900000,
-    "playerImg": "https://placehold.co/400x400?text=Litton+Das"
+    "price": 200000,
+    "playerImg": "https://i.ibb.co.com/cnmT6vd/images.jpg"
   }
 ]
